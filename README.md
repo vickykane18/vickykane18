@@ -11,7 +11,7 @@
 <br>
 
 ![Degree](https://img.shields.io/badge/B.Tech-AI%20%26%20ML-6A5ACD?style=for-the-badge)
-![CGPA](https://img.shields.io/badge/CGPA-8.24%2F10-8A2BE2?style=for-the-badge)
+![CGPA](https://img.shields.io/badge/CGPA-8.28%2F10-8A2BE2?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Chennai-India-4B0082?style=for-the-badge)
 
 <br>
@@ -169,7 +169,7 @@ Leading independent filmmaking projects and managing a growing creative communit
 | -------------------- | ------------------------------------------ |
 | Founder              | Established EliteMotion Films              |
 | Community Growth     | Built a creative community of 235+ members |
-| Academic Performance | Maintaining 8.24 CGPA                      |
+| Academic Performance | Maintaining 8.28 CGPA                      |
 | Project Development  | Multiple AI and software projects          |
 | Creative Leadership  | Directed independent short films           |
 
